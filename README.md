@@ -42,7 +42,7 @@
 
 下载地址：[https://github.com/cccyb/hexo-theme-pinghsu](https://github.com/cccyb/hexo-theme-pinghsu)
 
-在线预览：[https://chenyubo.me](https://chenyubo.me)
+在线预览：[https://cbzblog.com](https://cbzblog.com)
 
 ##  主题亮点
 
